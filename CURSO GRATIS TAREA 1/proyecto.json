@@ -1,0 +1,15 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "proyecto node inicial curso obm",
+  "main": "index.js",
+  "scripts": {
+    "saluda": "node index.js" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fristproject"
+  ],
+  "author": "Francisco Meglia",
+  "license": "ISC"
+}
